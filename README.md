@@ -4,10 +4,10 @@ Python 3.9 was used to create the application files.
 
 | Library | Task |
 | ------ | ------ |
-|[ Sklearn ](http://scikit-learn.org/stable/install.html)| Machine Learning Library|
-| [ Numpy ](http://www.numpy.org/) |Mathematical Operations|
-| [ Pandas  ](https://pandas.pydata.org/pandas-docs/stable/install.html)|  Data Analysis Tools |
-| [ Matplotlib ](https://matplotlib.org/users/installing.html) |Graphics and Visuality|
+|[ Sklearn 0.24.1 ](http://scikit-learn.org/stable/install.html)| Machine Learning Library|
+| [ Numpy 1.20.1 ](http://www.numpy.org/) |Mathematical Operations|
+| [ Pandas 1.2.4 ](https://pandas.pydata.org/pandas-docs/stable/install.html)|  Data Analysis Tools |
+| [ Matplotlib 3.3.4 ](https://matplotlib.org/users/installing.html) |Graphics and Visuality|
 
 The implementation phase consists of 5 steps, which are:
 1-	Pre-processing
